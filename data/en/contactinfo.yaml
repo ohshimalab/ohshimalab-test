@@ -1,9 +1,11 @@
 contactformaction: 'post-action'
 
 address:
-- line: '1234 Somewhere Road #87257'
-- line: 'Nashville, TN 00000-0000'
+- line: '兵庫県立大学 神戸情報科学キャンパス
+'
+- line: '〒650-0047　神戸市中央区港島南町7-1-28 計算科学センタービル 704号室'
+- line: 'ポートライナー「京コンピュータ前駅」下車 徒歩約2分'
 
-phone: '(800) 000-0000'
+# phone: '000-000'
 
-email: 'someone@untitled.tld'
+email: 'ohshima@ai.u-hyogo.ac.jp'

@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "OHSHIMA LAB"
-baseURL = "http://localhost:1313/"
+baseURL = "https://ohshimalab.github.io/homepage-test/"
 theme = "massively"
 googleanalytics = ""
 disqusShortname = ""
@@ -21,15 +21,15 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [menu]
   [[menu.main]]
   Name = "About"
-  URL = "/about"
+  URL = "/about/"
 
   [[menu.main]]
   Name = "Members"
-  URL = "/members"
+  URL = "/members/"
 
   [[menu.main]]
   Name = "Admission"
-  URL = "/admission"
+  URL = "/admission/"
 
 [languages]
 [languages.en]

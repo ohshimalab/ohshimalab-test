@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OHSHIMA LAB</title>
+    <link>https://ohshimalab.github.io/homepage-test/</link>
+    <description>Recent content on OHSHIMA LAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jun 2018 17:49:59 +0900</lastBuildDate>
+    
+	<atom:link href="https://ohshimalab.github.io/homepage-test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iiWAS2019 参加報告</title>
+      <link>https://ohshimalab.github.io/homepage-test/post/iiwas2019/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohshimalab.github.io/homepage-test/post/iiwas2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IDRユーザフォーラム 2019</title>
+      <link>https://ohshimalab.github.io/homepage-test/post/idr/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohshimalab.github.io/homepage-test/post/idr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>兵庫県立大学知の交流シンポジウム2019</title>
+      <link>https://ohshimalab.github.io/homepage-test/post/20200312/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohshimalab.github.io/homepage-test/post/20200312/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学生募集</title>
+      <link>https://ohshimalab.github.io/homepage-test/admission/</link>
+      <pubDate>Mon, 25 Jun 2018 17:49:59 +0900</pubDate>
+      
+      <guid>https://ohshimalab.github.io/homepage-test/admission/</guid>
+      <description>学生募集概要 大島研究室の正式な所属は以下の通りです。
+兵庫県立大学大学院応用情報科学研究科 応用情報科学専攻 高信頼情報科学コース
+大島研究室では、博士前期課程学生と博士後期課程学生を募集しています。 正式な入学試験の情報については、以下のページをご覧ください。
+入試情報： https://www.ai.u-hyogo.ac.jp/entrance/
+博士前期課程への入学を希望する方へ 博士前期課程への入学を希望する方は、入学試験を受験していただく必要があります。 応用情報科学研究科では、例年4回（6月、9月、1月、3月）、博士前期課程の入試を行っています。 そのいずれかを受験していただいて、それに合格することで、入学することができます。入学後に大島研究室に配属を希望することで、大島研究室に参加することができます。
+正式な入学試験の情報については、以下のページをご覧ください。
+入試情報： https://www.ai.u-hyogo.ac.jp/entrance/
+事前にご連絡いただく必要はありませんが、可能であれば事前にご連絡ください。 研究の内容や研究の進め方などについて相談したいと思います。 メールなどでご連絡いただけましたら、面談の機会を作りたいと思います。 また、兵庫県立大学応用情報科学研究科では、毎年2回（8月、12月）、オープンキャンパスを行っていますので、そちらに来ていただくのもよいと思います。 研究科全体の様子を知っていただくことができます。 オープンキャンパスの情報については、以下のページをご覧ください。
+オープンキャンパス情報： https://www.ai.u-hyogo.ac.jp/entrance/open.html
+博士後期課程への入学を希望する方へ 博士後期課程への入学を希望する方は、出願前に必ずご連絡ください。 事前に、研究の内容や研究の進め方などについて相談したいと思います。 十分な話し合いの後に、入学試験に合格すれば、大島研究室に参加することができます。 応用情報科学研究科では、例年3回（8月、1月、3月）、博士後期課程の入試を行っています。 4月に入学を希望される方は、いずれの入試を受けていただいてもかまいません。 10月に入学を希望される方は、8月の入試を受けていただく必要があります。
+正式な入学試験の情報については、以下のページをご覧ください。
+入試情報： https://www.ai.u-hyogo.ac.jp/entrance/
+研究生としての参加を希望する方へ まずは、博士前期課程か博士後期課程への入学をご検討ください。
+入試に関する連絡先 大島裕明： ohshima@ai.u-hyogo.ac.jp</description>
+    </item>
+    
+    <item>
+      <title>研究の内容</title>
+      <link>https://ohshimalab.github.io/homepage-test/about/</link>
+      <pubDate>Mon, 25 Jun 2018 17:49:59 +0900</pubDate>
+      
+      <guid>https://ohshimalab.github.io/homepage-test/about/</guid>
+      <description>「社会」と「情報」の研究 大島研究室では、社会において人が情報を取得して意思決定を行い、豊かに生活することを支える技術を研究しています。情報検索、データマイニング、情報デザインといった研究分野を基軸としつつ、データベース、機械学習、自然言語処理といった情報学の様々な分野の知見を活用し、さらには、心理学、社会学、経営学なども視野に入れて研究を行っています。
+現在、社会は大きな変革の渦の中にあります。社会の変革と同時に、情報の概念や技術の概念が従来からの解釈ではとらえきれなくなっています。福沢諭吉は「民情一新」において、社会と技術と情報の三者が連鎖的に変革を起こすことで、社会変革が起こると指摘しました。この指摘は産業革命において行われたものですが、その後の情報革命においても同様の指摘がなされています。すなわち、社会が変わるということは、同時に技術が変わること、そして、情報が変わることであるということです。現代社会はインターネットが実世界を反映する社会であり、現在の若者はデジタルネイティブです。新しい情報は現在の若者が創っていくものであり、それを支える技術を研究することで、新しい社会を切り開いていきたいと考えています。
+Web検索と知識発見の研究 あらゆる情報が交換されるWebにおいて、情報獲得を行う基盤技術である情報検索について研究を行っています。特に、多くのWebユーザが発信する情報や振る舞いから知識を発見して応用することで、これまでできなかった検索を実現することに取り組みます。
+社会情報デザインの研究 Webは社会の活動を広く反映する存在となっています。一方で、Webをそのまま信頼して利用することが難しい状況でもあります。人々がWebを信頼して利用できるようになることを目標として、大規模な情報を分析・構造化し、人に必要とされる新たな情報を生み出す手法について研究を行います。
+新しいものづくり情報管理の研究 デジタルファブリケーション（3Dプリンタやレーザーカッターを用いたものづくり）やフィジカルコンピューティングは、新しいものづくりのあり方をもたらしています。新しいものづくりを支援するために、たとえば、どうやって作るかといった情報を交換する仕組みの研究などを行います。</description>
+    </item>
+    
+    <item>
+      <title>研究室メンバー</title>
+      <link>https://ohshimalab.github.io/homepage-test/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohshimalab.github.io/homepage-test/members/</guid>
+      <description>教員     名前     准教授 大島 裕明 （Hiroaki OHSHIMA）    学生    学年 名前     D2 高橋 克郎 （Katsurou TAKAHASHI）   D2 田中 謙次 （Kenji TANAKA）   M2 牧田 真朋 （Maho MAKITA）   M2 西村 和貴 （Kazuki NISHIMURA）   M2 マハルジャン ラビン （Rabin MAHARJAN）   M2 堂本 凌祐 （Ryosuke DOMOTO）   M2 村本 直樹 （Naoki MURAMOTO）   M2 楊 澤華 （Zehua YANG）   M2 吉井 健紘 （Takehiro YOSHII）   M1 中田 祐誠 （Yusei NAKATA）   M1 橋口 友哉 （Tomoya HASHIGUCHI）   M1 崔 洙瑚 （Suho CHOI）   M1 顧 席銘 （Ximing GU）   M1 ファム フーロン （Huu Long PHAM）    社会人学生    学年 名前     D2 竹本 勉 （Tsutomu TAKEMOTO）   D1 森川 優 （Yu MORIKAWA）   M2 福島 航平 （Kohei FUKUSHIMA）   M2 山本 雄大 （Takehiro YAMAMOTO）    卒業生    卒業年 名前     2019 白髪 宙海 （Hiromi SHIRAGA)    </description>
+    </item>
+    
+  </channel>
+</rss>

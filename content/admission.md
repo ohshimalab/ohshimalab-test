@@ -2,7 +2,7 @@
 title: 学生募集
 date: 2018-06-25T17:49:59+09:00
 type: page
-url: /admission
+url: /admission/
 ---
 
 ## 学生募集概要
@@ -16,7 +16,7 @@ url: /admission
 大島研究室では、博士前期課程学生と博士後期課程学生を募集しています。
 正式な入学試験の情報については、以下のページをご覧ください。
 
-入試情報：https://www.ai.u-hyogo.ac.jp/entrance/
+入試情報： https://www.ai.u-hyogo.ac.jp/entrance/
 
 
 ## 博士前期課程への入学を希望する方へ
@@ -27,7 +27,7 @@ url: /admission
 
 正式な入学試験の情報については、以下のページをご覧ください。
 
-入試情報：https://www.ai.u-hyogo.ac.jp/entrance/
+入試情報： https://www.ai.u-hyogo.ac.jp/entrance/
 
 事前にご連絡いただく必要はありませんが、可能であれば事前にご連絡ください。
 研究の内容や研究の進め方などについて相談したいと思います。
@@ -36,7 +36,7 @@ url: /admission
 研究科全体の様子を知っていただくことができます。
 オープンキャンパスの情報については、以下のページをご覧ください。
 
-オープンキャンパス情報：https://www.ai.u-hyogo.ac.jp/entrance/open.html
+オープンキャンパス情報： https://www.ai.u-hyogo.ac.jp/entrance/open.html
 
 
 ## 博士後期課程への入学を希望する方へ
@@ -50,7 +50,7 @@ url: /admission
 
 正式な入学試験の情報については、以下のページをご覧ください。
 
-入試情報：https://www.ai.u-hyogo.ac.jp/entrance/
+入試情報： https://www.ai.u-hyogo.ac.jp/entrance/
 
 
 ## 研究生としての参加を希望する方へ
@@ -60,4 +60,4 @@ url: /admission
 
 ## 入試に関する連絡先
 
-大島裕明：ohshima (at) ai.u-hyogo.ac.jp
+大島裕明： ohshima@ai.u-hyogo.ac.jp

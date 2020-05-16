@@ -2,7 +2,7 @@
 title: 研究の内容
 date: 2018-06-25T17:49:59+09:00
 type: page
-url: /about
+url: /about/
 ---
 
 ## 「社会」と「情報」の研究
